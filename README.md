@@ -1,4 +1,4 @@
 <div id="header" align="center">
-  <h1>Hi there! I'm Dmitry</h1>
-  <h3>Developer from Moscow</h3>
+  <h1>Привет! Меня зовут Дмитрий.</h1>
+  <h3>Разработчик из Москвы</h3>
 </div>
