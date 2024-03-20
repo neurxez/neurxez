@@ -1,30 +1,26 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h1>Здравствуйте! Я Дмитрий</h1>
+    <h3>Linux администратор с опытом работы более 5 лет</h3>
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://t.me/rusich_dm">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
   </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="telegram-url">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://discord.com/users/1066717814666301522">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
 
-### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+### Обо мне
+- 🌱 Сейчас я изучаю **Python, Rust, TypeScript**
+- 📝 Вдобавок к этому я обладаю навыками слепой печати на русской и английской раскладках.
+- 🌍 Я разговариваю на русском и английском.
+- 📫 Предложения о сотрудничестве принимаю на [Еmail](mailto:email-address)
 
 ---
 
-### Languages and tools
+### Языки и технологии
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
@@ -38,12 +34,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
 
-### My stat
+### Моя статистика
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neurxez&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neurxez&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neurxez&theme=github_dark" alt=""/>
 </div>
 
 ---
