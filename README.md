@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Здравствуйте! Я Дмитрий.</h1>
-    <h3>Linux администратор с опытом работы более 5 лет</h3>
+    <h1>Здравствуйте! Меня зовут Дмитрий.</h1>
+    <h3>Linux администратор с опытом работы более 5 лет.</h3>
 </div>
 
 <div id="socials" align="center">
@@ -23,6 +23,7 @@
 ### Языки и технологии
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="py" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
