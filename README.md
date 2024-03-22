@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dmitry+Kutasin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Dmitry+Kutasin!;" />
 </h1>
 
 <h3 align="center">Linux administrator and software developer from Russia 🇷🇺</h3>
@@ -24,11 +24,11 @@
     <a href="mailto:xnwerz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
     <a href="https://t.me/rusich_dm">
-    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=red" /></a>
     <a href="https://discord.com/users/1066717814666301522">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=red" /></a>
     <a href="https://github.com/neurxez" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=red" /></a>
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-333333.svg?&style=for-the-badge&logo=Github&logoColor=red" /></a>
 </div>
 
  <hr/>
