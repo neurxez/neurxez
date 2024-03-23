@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a something*.*
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Python, Rust, Neural networks.**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/neurxez/neurxez/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs.**
 
  </div>
  
@@ -31,42 +29,38 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-333333.svg?&style=for-the-badge&logo=Github&logoColor=red" /></a>
 </div>
 
- <hr/>
+<hr/>
+<br />
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,nodejs,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vim,neovim,vscode,github,git" /><br>
 </div>
 
-<br/>
-<hr/>
+<br />
+<hr />
+<br />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <br/>
 </div>
 
-<hr/>
+<br />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=neurxez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=neurxez&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=neurxez&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
+<hr/>
+<br />
 
 <div align="center">
 <a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
