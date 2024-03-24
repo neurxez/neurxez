@@ -39,23 +39,3 @@
     <img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,nodejs,nextjs,mysql,flask" />
     <img src="https://skillicons.dev/icons?i=react,html,css,vim,neovim,vscode,github,git" /><br>
 </div>
-
-<br />
-<hr />
-<br />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    
-</div>
-
-<br/>
-<hr/>
-<br />
-
-<div align="center">
-<a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
