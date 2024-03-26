@@ -6,8 +6,6 @@
 
 <h3 align="center">Linux administrator and software developer from Russia 🇷🇺</h3>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a something*.*
